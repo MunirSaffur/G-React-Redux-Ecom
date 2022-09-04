@@ -1,0 +1,11 @@
+@import 'App.css';
+
+/* Views */
+@import './views/Homepage.css';
+
+/* Components */
+@import './components/item.css';
+@import './components/typeFilter.css';
+@import './components//selectFilter.css';
+@import './components/cart.css';
+

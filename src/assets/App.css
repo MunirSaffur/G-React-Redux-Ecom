@@ -1,0 +1,16 @@
+:root {
+    --primary: #1EA4CE;
+    --white: #ffffff;
+  }
+
+body, html{
+    background-color: #fafafa !important;
+}
+.Header{
+  background-color: var(--primary);
+}
+.header-cart{
+  background-color: rgba(0, 0, 0, 0.255);
+  color: white;
+  font-weight: bold;
+}
