@@ -11,13 +11,14 @@ You can browse the project online through this link:
 run this command to install node package manager
 ### `npm install` 
 
-In the project directory, you can run:
+----
+
+Run this command to run the server and initialize the API.
 ### `json-server --watch db.json`
 
-Runs this command.\
-Open [http://localhost:3000](http://localhost:3000) to run the server and initialize the API.
+Open [http://localhost:3000/items](http://localhost:3000/items) to view the data.
 
-
+-----
 ### `npm run start`
 
 Runs the app in the development mode.\
