@@ -7,15 +7,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can browse the project online through this link:
 [https://g-react-redux.web.app/](https://g-react-redux.web.app/)
 
-In the project directory, you can run:
 
+run this command to install node package manager
+### `npm install` 
+
+In the project directory, you can run:
 ### `json-server --watch db.json`
 
 Runs this command.\
 Open [http://localhost:3000](http://localhost:3000) to run the server and initialize the API.
 
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
